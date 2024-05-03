@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdegokeMichael
-- 👀 I’m interested in Data Analysis and Cloud Computing
+- 👀 Cloud Computing/Devops Engineering
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me >> michaelbeatus.mia@outlook.com or michaelbeatus.mia@gmail.com
 
